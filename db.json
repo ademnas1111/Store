@@ -63,8 +63,7 @@
     ],
     "activeTab": 0,
     "outOfStockImage": "../assets/imgs/out.png"
-  }
-  {
+  },
   "acmilan": {
     "name": "AC Milan Home Jersey 2024/25",
     "images": [
@@ -131,10 +130,4 @@
     ],
     "outOfStockImage": "../assets/imgs/out.png"
   }
-}
-
-
-
-
-
 }
