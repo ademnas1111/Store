@@ -1,8 +1,8 @@
 {
   "product": {
     "title": "Manchester City Home Jersey 2024/25",
-    "selectedImage": "../assets/imgs/kits/mnch.webp",
-    "images": ["../assets/imgs/kits/mnch.webp", "../assets/imgs/kits/mnca.webp"],
+    "selectedImage": "assets/imgs/kits/mnch.webp",
+    "images": ["assets/imgs/kits/mnch.webp", "assets/imgs/kits/mnca.webp"],
     "sizes": ["S", "M", "L", "XL", "XXL"],
     "selectedSize": null,
     "selectedQuantity": 1,
