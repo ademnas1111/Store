@@ -1,5 +1,6 @@
 {
   "product": {
+    "id": 1,
     "title": "Manchester City Home Jersey 2024/25",
     "selectedImage": "assets/imgs/kits/mnch.webp",
     "images": ["assets/imgs/kits/mnch.webp", "assets/imgs/kits/mnca.webp"],
