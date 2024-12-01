@@ -71,7 +71,7 @@
       "../assets/imgs/kits/acmilan1.webp",
       "../assets/imgs/kits/acmilan2.webp"
     ],
-    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "sizes": ["S", "M", "L", "XL"],
     "selectedSize": null,
     "selectedQuantity": 1,
     "selectedColor": 0,
